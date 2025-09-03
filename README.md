@@ -1,6 +1,6 @@
 # Gophish Detector Chrome Extension
 
-![Extension Icon](https://raw.githubusercontent.com/user/repo/main/gophish-detector/icons/icon128.png)
+![Extension Icon](icons/icon128.png)
 
 A simple but effective browser extension to automatically detect and warn users about potential phishing emails sent from the **Gophish** phishing framework within the Gmail interface.
 
